@@ -1,0 +1,15 @@
+[
+  {
+    "id": "gh",
+    "name": "GitHub"
+  },
+  {
+    "id": "hn",
+    "name": "Hacker News",
+    "link": ""
+  },
+  {
+    "id": "36kr",
+    "name": "36Kr"
+  }
+]
